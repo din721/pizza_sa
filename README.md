@@ -40,5 +40,5 @@ Resolved by:
 > Search > Sql server configuration manager > SQL server network configuration > Protocols for MSSQLSERVER > All Protocol Names to 'Enabled' Status
 > Also, giving server name as 'PC-DCPIE' with 'Windows Authentication' under Authentication; Tick Encrypt connection & Trust server certificate > add 'TrustServerCertificate=True;' under  
   Additional Connection Parameters
->
->
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
