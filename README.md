@@ -28,6 +28,7 @@ The client wanted to understand various aspects of their pizzas sales data to ga
 Tools used:
 -----------
 > Microsoft SQL Server Management Studio or any SQL tool[For MSSMS to run, we need to install SQL server as well from "https://www.microsoft.com/en-in/sql-server/sql-server-downloads" express edition]
+> MS Excel
 > Power BI Desktop View
 
 SQL Server connection issue:
