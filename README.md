@@ -42,4 +42,5 @@ Resolved by:
 > Also, giving server name as 'PC-DCPIE' with 'Windows Authentication' under Authentication; Tick Encrypt connection & Trust server certificate > add 'TrustServerCertificate=True;' under  
   Additional Connection Parameters
 
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
