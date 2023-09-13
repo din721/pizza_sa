@@ -10,7 +10,6 @@ We had to analyze key indicators for our pizza sales data to gain insights into 
 (v ) Total orders: Total no. of orders placed.
 (vi) Average pizzas per order: Average no. of pizzas sold per order, calculated by dividing total no. of pizzas sold by total no. of orders.
 
-
 2. Chart requirement:
 ---------------------
 The client wanted to understand various aspects of their pizzas sales data to gain insights & key trends. Specifically below:
