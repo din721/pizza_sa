@@ -1,6 +1,7 @@
 # pizza_sales_analysis
 Problem statement:
 ================== 
+
 1. KPIs requirement: KPIs are aggregation of values at high level, it gives us an overall idea of the business.
 --------------------
 We had to analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically, the following metrics as per client's requirements:
